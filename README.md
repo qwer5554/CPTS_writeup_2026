@@ -31,6 +31,7 @@ I didn’t use much extra material. Here’s what helped:
 ligolo-ng for tunneling
 bloodyAD for AD
 5. Stay calm. If stuck, try a different approach. Change the tool, wordlist, or method. Knowing the modules well makes a big difference.
-6. Practice report writing. I used SysReptor for reporting. It’s a very easy-to-use tool and I had some experience with Markdown, but it can be overwhelming for first-time users. I just winged it on the exam. I would not recommend this to anyone.
-7. CPTS Cheatsheets & Notes: https://tr.ee/p195Pu
+6. CPTS Cheatsheets & Notes: https://tr.ee/p195Pu
+7. Practice report writing. I used SysReptor for reporting. It’s a very easy-to-use tool and I had some experience with Markdown, but it can be overwhelming for first-time users. I just winged it on the exam. I would not recommend this to anyone.
+
 
