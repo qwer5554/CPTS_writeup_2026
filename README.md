@@ -1,13 +1,13 @@
-# HTB CPTS - Experience, tips and tricks
+# HTB CPTS - Experience, Tips & Tricks
 
-## Tips I received from friends and people online - how accurate are they?
+## Online Tips evaluated
 Let’s break it down:
 
 1. “You don’t need to do boxes. They’re different from the exam.”
 ✅ True, if you have a solid methodology. Dante will teach you more as a beginner than any box. Boxes crushed my confidence. Skip them if you’ve already got fundamentals.
 
 2. “Do the CrackMapExec/API attacks modules.”
-❌ Not needed post-update (2025). Instead, read CME’s docs and the spider module if you must. The CME skills assessment made me doubt myself a day before the exam.
+❌ Not needed post-update. Instead, read CME’s docs and the spider module if you must. The CME skills assessment made me doubt myself a day before the exam.
 
 3. “Leave plenty of time for reporting.”
 ✅ 100% true. My report took 2–3 days. I was burnt out and made several mistakes including missed redactions, typos, and my name not rendering in 4 places. But I passed. The report was 195 pages.
@@ -21,7 +21,7 @@ Let’s break it down:
 6. “AEN is the closest thing to the exam, but forget it when the exam starts.”
 ✅ Half true. The exam is harder. Do AEN blind, but if stuck for more than 1–2 hours, use the walkthrough.
 
-## Additional learning materials and preparation tips
+## Additional learning materials and preparation tips for CPTS objective:
 I didn’t use much extra material. Here’s what helped:
 
 1. Enumeration is everything (already covered above).
@@ -32,5 +32,5 @@ ligolo-ng for tunneling
 bloodyAD for AD
 5. Stay calm. If stuck, try a different approach. Change the tool, wordlist, or method. Knowing the modules well makes a big difference.
 6. Practice report writing. I used SysReptor for reporting. It’s a very easy-to-use tool and I had some experience with Markdown, but it can be overwhelming for first-time users. I just winged it on the exam. I would not recommend this to anyone.
-7. Cheatsheets & Notes: https://tr.ee/p195Pu
+7. CPTS Cheatsheets & Notes: https://tr.ee/p195Pu
 
