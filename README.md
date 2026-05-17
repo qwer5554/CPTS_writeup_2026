@@ -1,4 +1,4 @@
-# HTB CPTS - Experience, Tips & Tricks
+# HTB CPTS Writeup - Experience, Tips & Tricks
 
 ## Online Tips evaluated
 Let’s break it down:
