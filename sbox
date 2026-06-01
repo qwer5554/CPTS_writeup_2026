@@ -1,1 +1,9 @@
-tt
+Use Cases
+
+1. Path traversal (or directory traversal) is a web security vulnerability that lets attackers access arbitrary files and directories on a server by manipulating input paths. By injecting sequences like ../ into file path parameters, malicious actors can escape intended directories and view sensitive data, such as configuration files or backend credentials.In SoapBx download the API key file with the link /download?id=..././conf/apikey.
+
+2. A SQL injection (SQLi) is a severe vulnerability where attackers insert malicious SQL commands into application inputs. These commands trick the database into executing unintended actions e.g. extracting the magiclink from the database in the “activateUser” API endpoint
+
+3. A server-side template injection occurs when an attacker is able to use native template syntax to inject a malicious payload into a template, which is then executed server-side.
+Template engines are designed to generate web pages by combining fixed templates with volatile data. Server-side template injection attacks can occur when user input is concatenated directly into a template, rather than passed in as data. This allows attackers to inject arbitrary template directives in order to manipulate the template engine, often enabling them to take complete control of the server, e.g. “getWelcomeEmail” method uses ThymeLeaf template engine.
+
